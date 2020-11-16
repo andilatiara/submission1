@@ -1,0 +1,21 @@
+{
+    "name": "Bakery&Cake",
+    "short_name": "My PWA",
+    "description": "Aplikasi Bakery&Cake",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ecb814",
+    "theme_color": "#ecb814",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
